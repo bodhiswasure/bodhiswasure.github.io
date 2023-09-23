@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodhiswasure.github.io/sitemap.xml
